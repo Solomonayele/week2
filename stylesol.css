@@ -1,0 +1,97 @@
+p {
+    color: black;
+    font-size: 25px;
+}
+
+H1 {
+color: black;
+    font-size: 48px;
+    text-align:center;
+    font-family: "serif";
+
+}
+
+h2{
+    font-size: 40px;
+    text-align: left;
+    font-style: italic ;
+
+}
+
+
+Body {
+background-color: purple;
+}
+
+ul {
+     color: blue;
+    font-family: Georgia , "Times New Roman" , Times , serif;
+}
+
+    #most-favorite{
+        background-color: powderblue;
+        text-decoration:underline ;
+        font-size: 40px;
+    }
+.second-favorite{
+    background-color: powderblue;
+    text-decoration: underline;
+    font-size: 21px;
+}
+
+    li{
+        font-size: 20px;
+        list-style-type:square;
+        color: black;
+        background-color: powderblue;
+    }
+#page-title {
+    text-shadow: 4px 4px blue;
+    text-decoration: underline;
+    font-size: 40px;
+
+
+}
+
+#solo{
+    text-shadow: 4px 4px blue;
+    font-size: 50px;
+}
+
+#most-favorite{
+    font-size: 21px;
+    background-color:powderblue;
+    /*text-shadow: 4px 4px black*/
+    list-style-type:circle;
+
+}
+
+.favorite-section{
+    background-color: powderblue;
+    border: 3px black double;
+    margin: 30px;
+    padding: 4px;
+
+}
+
+.food{
+    font-size: 50px;
+    text-align: center;
+    background-color: powderblue;
+    border: blue double;
+    padding: 30px;
+    font-style: italic;
+    text-shadow: 4px 4px blue;
+
+
+}
+.favorite\=things{
+    background-color: powderblue;
+    font-size: 50px;
+    text-align: left;
+    margin: 5px ;
+    padding: 100px;
+    border: 30px blueviolet double;
+    text-align: left;
+
+}
